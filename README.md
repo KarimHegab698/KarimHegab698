@@ -14,3 +14,59 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 Computer Engineering Student  
+⚙️ Embedded Systems | Computer Architecture | FPGA | Systems Programming  
+🌐 Full-Stack Development | Data Analytics  
+
+---
+
+## 🧠 About Me
+
+- 🌍 Building full-stack & data-driven applications
+- 🏆 Competitive & project-oriented mindset
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+- C / Embedded C
+- C++
+- Java
+- Python
+- JavaScript / TypeScript
+- SQL
+
+### ⚙️ Systems & Tools
+- Linux
+- System V IPC
+- Git & GitHub
+- Docker
+- VS Code
+  
+### 🌐 Web & Backend
+- Node.js
+- Express.js
+- React
+- Next.js
+- Spring Boot
+
+### 📊 Data & Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+
+---
+
+## 🧩 Current Focus
+
+- Scalable backend systems
+- Machine Learning / AI
+- Problem Solving
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/karim-hegab-5373942b4/
+- Email: karimhegab698@gmail.com
