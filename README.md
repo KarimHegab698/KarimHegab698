@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 
 - 🔬 Interested in Computer Architecture & Performance Optimization  
 - 🖥 Designing low-level systems & concurrent applications  
-- 🌍 Building scalable full-stack & data-driven applications  
+- 🌍 Building scalable full-stack & data-driven applications
+- Intrested in Data Science and AI Integration  
 - 🏆 Competitive & project-oriented mindset  
 
 ---
